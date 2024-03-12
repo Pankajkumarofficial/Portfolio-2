@@ -18,20 +18,20 @@ const Projects = () => {
                         <div className="col-md-4">
                             <div className="card rounded">
                                 <div className="card-image">
-                                    <span className="card-notify-badge">Full Stack</span>
+                                    <span className="card-notify-badge">React</span>
                                     <img src="https://help.nflxext.com/43e0db2f-fea0-4308-bfb9-09f2a88f6ee4_what_is_netflix_1_en.png" alt="project1" />
                                 </div>
                                 <div className="card-image-overly m-auto mt-3">
                                     <span className="card-detail-badge">React</span>
                                     <span className="card-detail-badge">Node</span>
-                                    <span className="card-detail-badge">Express</span>
+                                    <span className="card-detail-badge">API</span>
                                     <span className="card-detail-badge">Bootstrap</span>
                                 </div>
                                 <div className="card-body text-center">
                                     <div className="ad-title net">
                                         <h5 className="text-uppercase">netflix</h5>
                                     </div>
-                                    <a className='ad-btn' href="/">view</a>
+                                    <a className='ad-btn' href="https://pankajkumarofficial.github.io/Netflix/" target='_blank' rel='noreferrer'>view</a>
                                 </div>
                             </div>
                         </div>
@@ -71,7 +71,7 @@ const Projects = () => {
                                     <div className="ad-title">
                                         <h5 className="text-uppercase">textutils</h5>
                                     </div>
-                                    <a className='ad-btn' href="/">view</a>
+                                    <a className='ad-btn' href="https://pankajkumarofficial.github.io/my-app/" target='_blank' rel='noreferrer'>view</a>
                                 </div>
                             </div>
                         </div>
